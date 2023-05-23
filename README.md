@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+Elo+Souza.;Im+25+years+old;I+from+Brazil,+CG-MS;I+study+Computer+Science+:%24)](https://git.io/typing-svg)
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://scontent.fcgr5-1.fna.fbcdn.net/v/t1.6435-9/49898071_2269572306652357_202646255061434368_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=i6GSPXhHFyAAX95Gqfw&amp;_nc_ht=scontent.fcgr5-1.fna&amp;oh=00_AfDjCuTI9iZX2Wf40ogNImSlTeYbgia4JumEoJ1puEEW2A&amp;oe=646846EA" width="178" height="255">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://uploads.spiritfanfiction.com/historias/capitulos/202010/o-futuro-de-konoha-20746412-141020201706.jpg" width="178" height="255">
 </div>
 
 <div align="center">  
