@@ -12,9 +12,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eloosouz&bg_color=000000&color=7c467c&line=eaa9dd&point=bf8daa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center"> 
 <a href="https://www.instagram.com/eloosouz/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
 <a href="https://www.youtube.com/channel/UC3lFjAfqA_g7kdEOq6ihX5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
