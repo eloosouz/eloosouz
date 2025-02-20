@@ -1,5 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<div>
+  👋 Olá, sou a elo!
 
+Estudante de SI, tenho uma paixão imensa por tecnologias de código aberto e uma forte curiosidade por soluções inovadoras. Estou sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades.
+
+**Interesses**:
+- Atualmente, estou explorando Segurança de Redes, com foco em proteção contra ameaças, criptografia e segurança de redes sem fio.
+
+**Contato**:
+- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/eloiny-ribeiro-de-souza-32083a269/) 
+
+
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eloosouz&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=c9d1d9&bg_color=0d1117" alt="Elo Souza github stats" /> 
